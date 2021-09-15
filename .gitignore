@@ -1,0 +1,8 @@
+.vscode/
+*.pb.go
+.tmp/
+.tools/
+.testCoverage.txt
+.idea
+*.iml
+.go-get.log
